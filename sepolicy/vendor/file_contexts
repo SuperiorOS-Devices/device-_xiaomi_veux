@@ -22,7 +22,7 @@
 /mnt/vendor/dsp/fastrpc_shell_3                 u:object_r:public_adsprpcd_file:s0
 
 # Livedisplay
-/vendor/bin/hw/vendor\.lineage\.livedisplay@2\.0-service\.xiaomi_sm8350                                      u:object_r:hal_lineage_livedisplay_qti_exec:s0
+/vendor/bin/hw/vendor\.lineage\.livedisplay@2\.1-service\.xiaomi_sm8350                                      u:object_r:hal_lineage_livedisplay_qti_exec:s0
 
 # Fingerprint
 /dev/goodix_fp                                  u:object_r:fingerprint_device:s0
