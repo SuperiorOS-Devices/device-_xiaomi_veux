@@ -19,6 +19,8 @@ $(call inherit-product, device/xiaomi/veux/device.mk)
 
 # Inherit some common PixelExperience stuff.
 $(call inherit-product, vendor/superior/config/common.mk)
+BUILD_WITH_GAPPS := true
+SUPERIOR_OFFICIAL := true
 
 PRODUCT_NAME := superior_veux
 PRODUCT_DEVICE := veux
