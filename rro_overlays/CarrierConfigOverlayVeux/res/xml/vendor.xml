@@ -1371,6 +1371,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="config_retry_sms_over_ims" value="true"/>
         <boolean name="config_update_service_status" value="false"/>
         <boolean name="carrier_supports_multianchor_conference" value="true"/>
+        <!-- PA: Enable VoNR on Jio -->
+        <boolean name="vonr_enabled_bool" value="true" />
     </carrier_config>
 
     <carrier_config mcc="440" mnc="10">
