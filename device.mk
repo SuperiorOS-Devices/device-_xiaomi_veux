@@ -271,6 +271,7 @@ PRODUCT_PACKAGES += \
     libOmxG711Enc \
     libOmxQcelp13Enc \
     libstagefrighthw \
+    libstagefrighthw.vendor \
     libstagefright_omx \
     libstagefright_foundation \
     libstagefright_softomx.vendor
