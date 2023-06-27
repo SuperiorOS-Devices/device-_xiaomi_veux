@@ -5,3 +5,7 @@ allow system_app proc_pagetypeinfo:file r_file_perms;
 
 # vendor_aware_prop
 allow system_app vendor_aware_available_prop:file { open read };
+
+# Fast charger node
+allow system_app vendor_sysfs_battery_supply:dir { search };
+allow system_app vendor_sysfs_battery_supply:file { getattr open read };
