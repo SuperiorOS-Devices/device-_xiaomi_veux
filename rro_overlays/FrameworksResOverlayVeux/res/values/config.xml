@@ -840,4 +840,6 @@
         <item>org.lineageos.aperture.dev</item>
     </string-array>
 
+    <!-- Whether to show settings for hiding notch fill -->
+    <bool name="config_showHideNotchSettings">true</bool>
 </resources>
