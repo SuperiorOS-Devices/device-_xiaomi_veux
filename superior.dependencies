@@ -28,5 +28,11 @@
         "target_path": "hardware/xiaomi",
         "branch": "14.0",
         "remote": "github"
+    },
+    {
+        "repository": "pure-soul-kk/vendor_xiaomi_veux-gcam",
+        "target_path": "vendor/xiaomi/veux-gcam",
+        "branch": "main",
+        "remote": "github"
     }
 ]
